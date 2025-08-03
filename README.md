@@ -8,9 +8,11 @@ In diesem Projekt wird ein **Deep Neural Network** mit TensorFlow implementiert,
 Als Datengrundlage dient der öffentlich verfügbare **Banknote Authentication Dataset** aus dem UCI Machine Learning Repository. 
 Der Datensatz enthält Merkmale, die aus Bildern von Banknoten extrahiert wurden.
 
+## Projektstruktur
+
 deep-learning-mnist/
-- bank-note-date
-- deep-learning-mnist.ipynb
+- Bank-note-date
+- Deep-learning-mnist.ipynb
 - README.md
 
 ### 🔧 Ausführen
